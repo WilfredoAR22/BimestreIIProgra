@@ -1,0 +1,11 @@
+.ingrediente_faltante{
+    color: blue;
+}
+
+#ingrediente_querido{
+    color: red;
+}
+
+li {
+    color: aqua;
+}
