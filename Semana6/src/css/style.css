@@ -1,0 +1,42 @@
+/* estilos globales*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos para el cuerpo de la pagina */
+body {
+    font-family: 'Montserrat';
+}
+
+/* Modificar el contenedor principal */
+.contenedor {
+    padding: 60px 0;
+    width: 90%;
+    margin: auto;
+    max-width: 1000px;
+}
+/* bambi y bamba se comen en su carro */
+/* titulo principal */
+.titulo {
+    color: red;
+    font-size: 30px;
+    text-align: center;
+    margin-botton: 60px;
+}
+
+/* barra de navegacion */
+nav {
+    text-align: right;
+    padding: 30px 50px 0 0;
+}
+
+nav > a {
+    color: #fff;
+    font-weight: 300;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
